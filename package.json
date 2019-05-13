@@ -42,7 +42,7 @@
     "husky": "^2.1.0",
     "jest": "^24.5.0",
     "lint-staged": "^8.1.5",
-    "prettier": "^1.16.3"
+    "prettier": "^1.17.1"
   },
   "jest": {
     "coveragePathIgnorePatterns": [
